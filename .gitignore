@@ -1,0 +1,14 @@
+.DS_Store
+node_modules
+dist
+apidoc
+./views/chunks
+./views/system
+./views/manageSystem
+./views/login
+./views/mall
+views/chunks/
+views/login/
+views/mall/
+views/manageSystem/
+views/system/
